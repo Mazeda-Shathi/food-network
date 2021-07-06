@@ -1,0 +1,96 @@
+.diet{
+    display: flex;
+    background-image: url(Frame\ 56.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-left: 0;
+}
+.about{
+    display: flex;
+    background-image: url(Frame\ 59.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    margin:0;
+    padding: 0;
+}
+.recipe-box{
+    display: flex;
+    width:30%;
+    padding: 5%;
+}
+#food{
+    border-radius:20px;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    color: darkgrey;
+}
+p{
+    font-size: 20px;
+}
+.about-recipe{
+    font-size: 20px;
+}
+span{
+    color:crimson;
+}
+ .my-recipe  
+{
+    text-align: center;
+    width=100%;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0;
+}
+.healthy{
+    font-family: 'Poppins', sans-serif;
+    width:40%;
+    background-repeat: no-repeat;
+    padding:5%;
+}
+
+.link-page{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(red,darkred);
+    border-radius: 30px;
+    padding:15px;
+    margin-top:5%;
+}
+.box{
+       padding:30px;
+        border-radius: 25px;
+    box-shadow: 10px 8px 30px gray;
+    margin:0 30px 30px 30px;
+}
+.like{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    border-radius: 20px;
+    padding:5px;
+    box-shadow: 10px 8px 30px gray;
+    margin:10px 4% 20px 8%;}
+}
+.box-pic{
+    border-radius:25px;}
+.bottom{
+       font-family: 'Poppins', sans-serif;
+        text-align: center;
+        background-color: black;
+        padding:20px 0 3px 0;
+        margin-bottom: 0;
+}
+ .follower
+   {
+       padding:0 10% 0 10%;
+      
+   }
+   #net{
+       color: gray;
+   }
+    #foot{
+        color: white;
+    }
+   
