@@ -19,7 +19,7 @@
     padding: 5%;
 }
 #food{
-    border-radius:20px;
+    border-radius:50%;
 }
 h1{
     font-size: 40px;
@@ -50,20 +50,20 @@ span{
     background-repeat: no-repeat;
     padding:5%;
 }
-
-.link-page{
+.link-page
+{
     color: white;
     text-decoration: none;
     background-image: linear-gradient(red,darkred);
     border-radius: 30px;
     padding:15px;
-    margin-top:5%;
 }
 .box{
-       padding:30px;
+       padding:20px;
         border-radius: 25px;
     box-shadow: 10px 8px 30px gray;
     margin:0 30px 30px 30px;
+    font-family: 'Poppins', sans-serif;
 }
 .like{
     font-family: 'Poppins', sans-serif;
@@ -72,8 +72,8 @@ span{
     padding:5px;
     box-shadow: 10px 8px 30px gray;
     margin:10px 4% 20px 8%;}
-}
-.box-pic{
+    .box-pic
+    {
     border-radius:25px;}
 .bottom{
        font-family: 'Poppins', sans-serif;
@@ -94,3 +94,16 @@ span{
         color: white;
     }
    
+ 
+.menu
+ {
+     display:block;
+     text-align: center;
+     margin-left:30px;
+ }
+
+  .more{
+      display: flex;
+     width:50%;
+     padding: 5%;
+}
